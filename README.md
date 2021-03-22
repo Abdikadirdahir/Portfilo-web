@@ -15,6 +15,6 @@ WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 ```
 
-![bill-1](https://user-images.githubusercontent.com/61722709/111947491-d77fb680-8a9a-11eb-9445-c26d052088e8.png)
-![bill-2](https://user-images.githubusercontent.com/61722709/111947499-da7aa700-8a9a-11eb-9520-12297b85aec9.png)
-![bill-3](https://user-images.githubusercontent.com/61722709/111947502-db133d80-8a9a-11eb-8934-94889730b78f.png)
+![bill-1](https://user-images.githubusercontent.com/61722709/111947572-039b3780-8a9b-11eb-8ebd-65ffc32dccd5.png)
+![bill-2](https://user-images.githubusercontent.com/61722709/111947574-04cc6480-8a9b-11eb-8321-936d3eec2831.png)
+![bill-3](https://user-images.githubusercontent.com/61722709/111947576-0564fb00-8a9b-11eb-8093-30f73a067eb6.png)
